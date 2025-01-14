@@ -110,7 +110,7 @@ def main():
         ---
         <div style="text-align: center;">
             <strong>Created by Seema ❤️</strong><br>
-            Check out more of my projects on <a href="https://github.com/YourGitHubUsername" target="_blank">GitHub</a>.
+            Check out more of my projects on <a href="https://github.com/SeemaSingh15" target="_blank">GitHub</a>.
         </div>
         """,
         unsafe_allow_html=True
